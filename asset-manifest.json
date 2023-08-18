@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coffee-shop-app/static/css/main.ed7ab864.css",
+    "main.js": "/coffee-shop-app/static/js/main.17d96f32.js",
+    "static/media/life-happens-coffee-helps.svg": "/coffee-shop-app/static/media/life-happens-coffee-helps.d9de097202480ca8ab1d4efd8c3ea10a.svg",
+    "index.html": "/coffee-shop-app/index.html",
+    "main.ed7ab864.css.map": "/coffee-shop-app/static/css/main.ed7ab864.css.map",
+    "main.17d96f32.js.map": "/coffee-shop-app/static/js/main.17d96f32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7ab864.css",
+    "static/js/main.17d96f32.js"
+  ]
+}
