@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/coffee-shop-app/static/css/main.ed7ab864.css",
-    "main.js": "/coffee-shop-app/static/js/main.17d96f32.js",
+    "main.css": "/coffee-shop-app/static/css/main.bffc9a25.css",
+    "main.js": "/coffee-shop-app/static/js/main.3f928b40.js",
     "static/media/life-happens-coffee-helps.svg": "/coffee-shop-app/static/media/life-happens-coffee-helps.d9de097202480ca8ab1d4efd8c3ea10a.svg",
+    "static/media/icons8-search.svg": "/coffee-shop-app/static/media/icons8-search.44144c63f1114bd734334869ead5c143.svg",
     "index.html": "/coffee-shop-app/index.html",
-    "main.ed7ab864.css.map": "/coffee-shop-app/static/css/main.ed7ab864.css.map",
-    "main.17d96f32.js.map": "/coffee-shop-app/static/js/main.17d96f32.js.map"
+    "main.bffc9a25.css.map": "/coffee-shop-app/static/css/main.bffc9a25.css.map",
+    "main.3f928b40.js.map": "/coffee-shop-app/static/js/main.3f928b40.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7ab864.css",
-    "static/js/main.17d96f32.js"
+    "static/css/main.bffc9a25.css",
+    "static/js/main.3f928b40.js"
   ]
 }
