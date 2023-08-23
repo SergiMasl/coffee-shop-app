@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const NavMenu = () => {
   const navCoffeeList = [
-    { Coffee: ["Oleto", "Hot Coffees", "Cold Coffees", "Nightro Coffees"] },
+    { Coffee: ["Oleato", "Hot Coffee", "Cold Coffees", "Nightro Coffees"] },
     { Tea: ["Hot Teas", "Cold Teas", "Chai Teas"] },
   ];
 
@@ -16,7 +16,7 @@ const NavMenu = () => {
               <div className="nav_section_list">
                 {item[category].map((subCategory, subIndex) => (
                   <Link
-                    to={`/${subCategory.split(" ").join("")}`}
+                    to={`/catalog/${subCategory.split(" ").join("")}`}
                     className="nav_list_item"
                     key={subIndex}
                   >

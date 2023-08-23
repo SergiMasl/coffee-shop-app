@@ -3,7 +3,7 @@ import CoffeeComponent from "./CoffeeComponent";
 
 const FullMenu = () => {
   return (
-    <div className="">
+    <div className="full_menu">
       <h2>Menu</h2>
       <CoffeeComponent />
       <TeaCompoment />
