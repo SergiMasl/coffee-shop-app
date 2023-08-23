@@ -36,6 +36,10 @@ const ItemInFocus = ({
             <p className="carusel_item_text_active">Transfat</p>
             <p className="carusel_item_text_active">{transfat}g</p>
           </div>
+          <div className="carusel_item_conteiner">
+            <p className="carusel_item_text_active">Transfat</p>
+            <p className="carusel_item_text_active">{transfat}g</p>
+          </div>
         </div>
       </div>
     </div>

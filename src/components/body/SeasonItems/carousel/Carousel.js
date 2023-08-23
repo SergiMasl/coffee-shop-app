@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import jsonData from "../../../../jsons/seasonCoffee.json";
 import ItemInFocus from "./ItemInFocus";
 import Item from "./Item";
-import dd from "../../../../components/styles/img/seasonal-drinks/pumpkin-spice-latte.png";
 
 function shiftArrayElementsRight(arr) {
   if (arr.length <= 1) {
@@ -57,13 +56,7 @@ const Carousel = () => {
                 topings={item.recepy.topings}
               />
             ) : (
-              <Item
-                img={item.img}
-                sugar={item.sugar}
-                title={item.title}
-                calories={item.calories}
-                transfat={item.transfat}
-              />
+              <Item item={item} />
             )}
           </div>
         );
