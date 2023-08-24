@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 const CoffeeComponent = () => {
   const coffeeList = [
-    { img: "", title: "Oleato", id: "oleato" },
-    { img: "", title: "Hot Coffees", id: "catalog/hotcoffees" },
-    { img: "", title: "Cold Coffees", id: "catalog/coldcoffees" },
-    { img: "", title: "Nightro Coffees", id: "catalog/nightrocoffees" },
+    { img: "", title: "Oleato", id: "catalog/oleato" },
+    { img: "", title: "Hot Coffees", id: "catalog/HotCoffee" },
+    { img: "", title: "Cold Coffees", id: "catalog/ColdCoffees" },
+    { img: "", title: "Nightro Coffees", id: "catalog/NightroCoffees" },
   ];
 
   return (
