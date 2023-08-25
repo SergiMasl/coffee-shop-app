@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coffee-shop-app/static/css/main.7fca2ac6.css",
-    "main.js": "/coffee-shop-app/static/js/main.265d1dd6.js",
+    "main.css": "/coffee-shop-app/static/css/main.b2103aaa.css",
+    "main.js": "/coffee-shop-app/static/js/main.26889b9b.js",
     "static/media/pumpkin-spice-latte.png": "/coffee-shop-app/static/media/pumpkin-spice-latte.5324a77fe7cb7f954b35.png",
     "static/media/tea.jpeg": "/coffee-shop-app/static/media/tea.ffa9024afea4e789aece.jpeg",
     "static/media/life-happens-coffee-helps.svg": "/coffee-shop-app/static/media/life-happens-coffee-helps.d9de097202480ca8ab1d4efd8c3ea10a.svg",
     "static/media/icons8-search.svg": "/coffee-shop-app/static/media/icons8-search.44144c63f1114bd734334869ead5c143.svg",
     "index.html": "/coffee-shop-app/index.html",
-    "main.7fca2ac6.css.map": "/coffee-shop-app/static/css/main.7fca2ac6.css.map",
-    "main.265d1dd6.js.map": "/coffee-shop-app/static/js/main.265d1dd6.js.map"
+    "main.b2103aaa.css.map": "/coffee-shop-app/static/css/main.b2103aaa.css.map",
+    "main.26889b9b.js.map": "/coffee-shop-app/static/js/main.26889b9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fca2ac6.css",
-    "static/js/main.265d1dd6.js"
+    "static/css/main.b2103aaa.css",
+    "static/js/main.26889b9b.js"
   ]
 }
