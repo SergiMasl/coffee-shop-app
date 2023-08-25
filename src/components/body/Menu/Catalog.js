@@ -17,14 +17,14 @@ const Catalog = () => {
           <Route path="/main" element={<FullMenu />} />
           <Route path="/tea" element={<TeaCompoment />} />
           <Route path="/coffee" element={<CoffeeComponent />} />
-          <Route path="/Oleato" element={<ItemsListByCategory />} />
+          <Route path="Oleato" element={<ItemsListByCategory />} />
           <Route path="HotCoffee" element={<ItemsListByCategory />} />
           <Route path="ColdCoffees" element={<ItemsListByCategory />} />
           <Route path="NightroCoffees" element={<ItemsListByCategory />} />
           <Route path="HotTeas" element={<ItemsListByCategory />} />
           <Route path="ColdTeas" element={<ItemsListByCategory />} />
           <Route path="ChaiTeas" element={<ItemsListByCategory />} />
-          <Route path="item" element={<Item />} />
+          <Route path="products/:id" element={<Item />} />
         </Routes>
       </div>
     </div>

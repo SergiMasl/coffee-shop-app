@@ -33,7 +33,7 @@ const Home = () => {
           <Route path="/catalog/HotTeas" element={<ItemsListByCategory />} />
           <Route path="/catalog/ColdTeas" element={<ItemsListByCategory />} />
           <Route path="/catalog/ChaiTeas" element={<ItemsListByCategory />} />
-          <Route path="/catalog/item" element={<Item />} />
+          <Route path="/catalog/products/:id" element={<Item />} />
         </Route>
       </Routes>
     </div>

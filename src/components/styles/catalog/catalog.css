@@ -6,14 +6,12 @@
 }
 
 .menu_wrapper {
-    width: 70%;
+    width: 85%;
     overflow: scroll;
-    height: 516px;
-   
 }
 
 .nav_wrap {
-    width: 30%;
+    width: 15%;
 }
 
 .nav_section_list {

@@ -10,3 +10,11 @@
   box-shadow: 0 0 9px #0504044f;
   border-radius: 5px;
 }
+
+.conteiner > div {
+  height: 100%;
+}
+
+.catalog_conteiner, .menu_wrapper {
+  height: 100%;
+}
